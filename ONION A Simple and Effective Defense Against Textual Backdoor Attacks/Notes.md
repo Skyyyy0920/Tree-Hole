@@ -1,6 +1,6 @@
 @[TOC](目录)
 
-`ONION: A Simple and Effective Defense Against Textual Backdoor Attacks解读`
+`ONION: A Simple and Effective Defense Against Textual Backdoor Attacks 论文解读`
 
 
 ---
@@ -118,6 +118,7 @@ $f_i$越大，$w_i$越有可能是一个离群词。这是因为如果$w_i$是�
    $\Delta ASR$越高，$\Delta CACC$越低越好。
 
 ## 2. 实验结果
+详见原文
 
 ## 3. 对ONION的分析
 基于BadNet对BERT-T在SST-2上的后门攻击结果，我们进行了一系列的定量和定性分析来解释ONION的有效性。
