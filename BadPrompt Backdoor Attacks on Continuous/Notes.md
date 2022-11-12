@@ -60,7 +60,7 @@ NLP中的绿色Finetune方法汇总：<https://zhuanlan.zhihu.com/p/474957940>
 攻击者的目标是这样的：将恶意服务提供者(malicious service provider, MSP)视为攻击者，它在很少的场景中训练一个连续提示模型。在训练过程中，MSP向模型中注入一个后门，该后门可以由特定的触发器激活。当受害用户下载模型并应用于其下游任务时，攻击者可以通过使用触发器提供样本来激活模型中的后门。本文关注的是有针对性的攻击，即当后门被激活时，攻击者利用连续提示模型来预测特定的标签类。
 
 <div align="center">
-<img src="./1.jpg" width=40%/>
+<img src="./1.jpg" width=30%/>
 </div>
 
 ## 3. 相关工作
@@ -120,7 +120,7 @@ $$\beta_{i}^{(j)}=\frac{\exp \left\{\left(\log \left(\alpha_{i}^{(j)}\right)+G_{
 ## 2. 实验结果
 
 <div align="center">
-<img src="./2.jpg" width=80%/>
+<img src="./2.jpg" width=60%/>
 </div>
 
 ---

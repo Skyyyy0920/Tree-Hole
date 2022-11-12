@@ -1,6 +1,10 @@
-@[TOC](目录)
+<div align="center">
+<img src="./little lovely.jpg" width=150%/>
+</div>
 
-`ONION: A Simple and Effective Defense Against Textual Backdoor Attacks 论文解读`
+`论文阅读笔记`
+
+@[TOC](目录)
 
 ---
 

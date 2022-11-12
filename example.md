@@ -1,7 +1,10 @@
+<div align="center">
+<img src="./little lovely.jpg" width=150%/>
+</div>
+
+`论文阅读笔记`
+
 @[TOC](目录)
-
-`Peekaboo: A Hub-Based Approach to Enable Transparency in Data Processing within Smart Home 论文解读`
-
 
 ---
 
